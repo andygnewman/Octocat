@@ -1,1 +1,3 @@
-Explain what git clone does, in your own words.
+Git clone effectively recreates a git repository on your local version of git, based on an existing remote version of that repository on git hub.
+In doing this it creates the overall repository directory, initialises the repository and creates the origin master link between the local and the remote.
+Any existing commits will also be cloned across. 
