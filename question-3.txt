@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words.
+A branch is a separate path of commits away from the master (intended as your clean set of code) where you can experimemt with ading, 
+changing or deleting code without impacting the codebase that is on the master.
+A branch, if successful can then be merged back in to other branches, for example master, once your happy with how it performs.
