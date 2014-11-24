@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words.
+The "upstream" remote is usually used for collaboration when many developers are working on the same project or codebase or
+to share the code easily with others
